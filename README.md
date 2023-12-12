@@ -101,3 +101,6 @@ Currently in my final year of training as an IT specialist for system integratio
 
 - [CCNAv7](https://www.credly.com/badges/96ab9f4c-5294-4e58-adc7-c6c02c3e55d2) 
 
+## 👨‍💻 Try Hack me Stats 
+ <img src="https://tryhackme-badges.s3.amazonaws.com/False3p0.png" alt="TryHackMe">
+ Im Learning O_O 
