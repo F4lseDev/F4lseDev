@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Philippe Rey, a self based in Germany. Welcome to my GitHub profile! 
+I'm Philippe Rey. Welcome to my GitHub profile! 
 
 Currently in my final year of training as an IT specialist for system integration. Im a self-taught programming for several years now! 🚀
 
